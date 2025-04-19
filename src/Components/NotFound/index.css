@@ -1,0 +1,43 @@
+.not-found-page-container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.not-found-page-container > img {
+  width: 270px;
+}
+
+.not-found-page-container > h1 {
+  font-size: 20px;
+}
+
+.not-found-page-container > p {
+  color: #cbd5e1;
+  font-size: 17px;
+  margin: 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .not-found-page-container{
+    padding: 20px;
+  }
+  
+  .not-found-page-container > img {
+    width: 400px;
+  }
+
+  .not-found-page-container > h1 {
+    font-size: 20px;
+  }
+
+  .not-found-page-container > p {
+    font-size: 17px;
+  }
+}
