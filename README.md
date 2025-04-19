@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
 ### Refer to videos below:
@@ -430,3 +431,6 @@ Returns a response containing the job details
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Jobby-App
+>>>>>>> 2a060397ac2e6941e799460c0957bd6cd89a3100

@@ -25,10 +25,10 @@
 }
 
 @media screen and (min-width: 768px) {
-  .not-found-page-container{
+  .not-found-page-container {
     padding: 20px;
   }
-  
+
   .not-found-page-container > img {
     width: 400px;
   }
