@@ -55,6 +55,10 @@ class Login extends Component {
     }
     return (
       <div className="login-route-bg-container">
+      <p className="login-test-credential">
+          Test Credentials: <br />
+          Username: rahul - Password: rahul@2021
+        </p>
         <div className="login-route-input-container">
           <img
             src="https://assets.ccbp.in/frontend/react-js/logo-img.png"
